@@ -1,9 +1,7 @@
-//any name can be given to it
-export default function Loading(){
-return <div>
-<center> This page is loading...</center>
-    
-</div>
-
-
-}
+export default function Loading() {
+    return <div className="flex flex-col justify-center h-screen">
+        <div className="flex justify-center">
+    Loading bhart ji....          
+        </div>
+    </div>
+  }
