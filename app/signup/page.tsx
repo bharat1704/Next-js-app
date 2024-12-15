@@ -3,7 +3,7 @@
 export default function Signup(){
 
     return <div>
-This is a sign in page
+This is a sign up page
 
     </div>
 }
